@@ -1,5 +1,7 @@
-![GitHub Follow](https://img.shields.io/github/followers/srcr?label=Follow&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/srcr?style=social)
+# Peter Zuidema, aka srcr
+
+[![GitHub Follow](https://img.shields.io/github/followers/srcr?label=Follow&style=social)](https://twitter.com/intent/follow?screen_name=srcr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/srcr?label=Follow&style=social)](https://twitter.com/intent/follow?screen_name=srcr)
 [![My website](https://img.shields.io/badge/My-website-blue)](https://srcr.nl)
 
 - 👋 Hi, I’m @srcr
