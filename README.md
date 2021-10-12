@@ -1,10 +1,12 @@
-# Peter Zuidema, aka srcr
+# Peter Zuidema, Security consultant at Atos
 
 [![GitHub Follow](https://img.shields.io/github/followers/srcr?label=Follow&style=social)](https://github.com/srcr)
 [![Twitter Follow](https://img.shields.io/twitter/follow/srcr?label=Follow&style=social)](https://twitter.com/intent/follow?screen_name=srcr)
 [![My website](https://img.shields.io/badge/My-website-blue)](https://srcr.nl)
 
 Hi and welcome.
+
+---
 
 ## 💻 My Stats 
 
