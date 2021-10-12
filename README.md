@@ -1,3 +1,7 @@
+![GitHub Follow](https://img.shields.io/github/followers/srcr?label=Follow&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/srcr.svg?style=social&label=Follow)](https://twitter.com/srcr)
+![My website](https://img.shields.io/badge/My-website-orange)](https://srcr.nl)
+
 - 👋 Hi, I’m @srcr
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
